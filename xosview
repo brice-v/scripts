@@ -1,0 +1,3 @@
+#!/bin/sh
+
+xosview2 -o "cpuFormat: single" -o "interrupts: False" -o "filesysMounts: / /extssd"
